@@ -32,3 +32,7 @@ go test ./... -bench=. -benchmem
 
 ### [Stack](/stack)
 - [X] [Stack (Slice)](/stack/stack.go)
+
+### [Heap](/heap)
+- [X] [Min Heap](/heap/heap.go)
+- [X] [Max Heap](/heap/heap.go)
